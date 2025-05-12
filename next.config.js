@@ -1,4 +1,4 @@
 export default {
     devIndicators: false,
-    output: 'export',
+    output: process.env.NODE_ENV === 'production' ? 'export' : undefined,
 };

@@ -20,8 +20,8 @@ const Page = async ({ params }) => {
     };
 
     return (
-        <section>
-            <article className="prose">
+        <section className="px-6 py-32 lg:px-8 text-white">
+            <article className="mx-auto max-w-3xl text-base/7 text-gray-700 prose prose-headings:text-white text-white">
                 <MDXRemote source={markdown} options={options} />
             </article>
         </section>

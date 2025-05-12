@@ -1,14 +1,15 @@
 import Link from 'next/link';
-import Hero from '../components/hero';
 
 export default () => (
-    <Hero>
+    <div className="mx-auto max-w-7xl px-6 lg:px-8 h-full flex items-center">
         <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-balance text-5xl font-semibold tracking-tight text-white sm:text-7xl">
                 Jodie André
             </h1>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
-                Psychologue clinicienne et psychothérapeute en Thérapies Cognitives et Comportementales (TCC) reconnue par l’AFTCC
+                Psychologue clinicienne et pyschothérapeute
+                <br />
+                Thérapies cognitives et comportementales (TCC)
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
                 <Link
@@ -18,12 +19,12 @@ export default () => (
                 >
                     Prendre un rendez-vous
                 </Link>
-                <Link href="/en-savoir-plus" className="text-sm/6 font-semibold text-white">
+                <Link href="/a-propos" className="text-sm/6 font-semibold text-white">
                     En savoir plus
                     {' '}
                     <span aria-hidden="true">→</span>
                 </Link>
             </div>
         </div>
-    </Hero>
+    </div>
 );
