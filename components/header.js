@@ -22,7 +22,7 @@ export default ({ className = '' }) => {
                 <div className="flex lg:flex-1">
                     <Link href="/">
                         <div className="flex items-center">
-                            <img src="/photo.jpg" alt="logo" className="rounded-full w-20" width="80" height="80" />
+                            <img src="/photo.png" alt="logo" className="rounded-full w-20 bg-sky-500" width="80" height="80" />
                             <div className="ml-4">
                                 <div className="text-lg font-bold leading-none">Jodie André</div>
                                 <div className="text-sm leading-none">Psychologue</div>
