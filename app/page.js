@@ -1,16 +1,14 @@
 import Link from 'next/link';
+import settings from '../settings.json';
 
 export default () => (
     <div className="mx-auto max-w-7xl px-6 lg:px-8 h-full flex items-center">
         <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-balance text-5xl font-semibold tracking-tight text-white sm:text-7xl">
-                Jodie André
+                {settings.title}
             </h1>
-            <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
-                Psychologue clinicienne et pyschothérapeute
-                <br />
-                Thérapies cognitives et comportementales (TCC)
-            </p>
+            {/* eslint-disable react/no-danger */}
+            <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8" dangerouslySetInnerHTML={{ __html: settings.description }} />
             <div className="mt-10 flex items-center justify-center gap-x-6">
                 <Link
                     href="https://doctolib.fr/psychologue/nancy/jodie-andre"
@@ -28,3 +26,8 @@ export default () => (
         </div>
     </div>
 );
+
+export const generateMetadata = async () => ({
+    title: settings.title,
+    description: settings.description,
+});

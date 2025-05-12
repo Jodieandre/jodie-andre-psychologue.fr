@@ -4,7 +4,7 @@ export default ({ children }) => (
     <div className="min-h-screen">
         <Header className="text-white" />
 
-        <div className="relative isolate h-screen pt-14 after:fixed after:inset-0 after:bg-sky-950/70 after:-z-10 after:content-['']">
+        <div className="relative isolate h-screen pt-14 after:fixed after:inset-0 after:bg-sky-950/80 after:-z-10 after:content-['']">
             <img
                 alt="background"
                 src="/background.jpg"

@@ -1,0 +1,12 @@
+{
+    "title": "Jodie André",
+    "subtitle": "Psychologue",
+    "description": "Psychologue clinicienne et pyschothérapeute <br /> Thérapies cognitives et comportementales (TCC)",
+    "navigation": [
+        { "name": "Accueil", "href": "/" },
+        { "name": "À propos", "href": "/a-propos" },
+        { "name": "Tarifs", "href": "/tarifs" },
+        { "name": "FAQ", "href": "/faq" },
+        { "name": "Mentions légales", "href": "/mentions-legales" }
+    ]
+}

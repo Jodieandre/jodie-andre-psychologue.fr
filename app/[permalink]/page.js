@@ -3,6 +3,7 @@ import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
 import { notFound } from 'next/navigation';
 import { MDXRemote } from 'next-mdx-remote-client/rsc'; // eslint-disable-line
+import settings from '../../settings.json';
 
 const Page = async ({ params }) => {
     const { permalink } = await params;
@@ -27,6 +28,11 @@ const Page = async ({ params }) => {
         </section>
     );
 };
+
+export const generateMetadata = async () => ({
+    title: settings.title,
+    description: settings.description,
+});
 
 export const generateStaticParams = async () => {
     const files = fs.readdirSync(`${process.cwd()}/content`);
