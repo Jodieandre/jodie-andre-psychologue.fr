@@ -5,6 +5,8 @@
     "navigation": [
         { "name": "Accueil", "href": "/" },
         { "name": "À propos", "href": "/a-propos" },
+        { "name": "Témoignages", "href": "/temoignages" },
+        { "name": "Certifications", "href": "/certifications" },
         { "name": "Tarifs", "href": "/tarifs" },
         { "name": "FAQ", "href": "/faq" },
         { "name": "Mentions légales", "href": "/mentions-legales" }

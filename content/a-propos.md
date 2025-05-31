@@ -1,10 +1,10 @@
 ## À propos
 
-Comportementales (TCC) et à l’EMDR.
+Je suis psychologue clinicienne et psychothérapeute, formée aux Thérapies Cognitives et Comportementales (TCC) et à l’EMDR.
 
 ### Mon parcours
 
-Au cours de mon cursus universitaire en psychologie, mes travaux de recherche se sont centrés sur les conséquences psychologiques des violences interpersonnelles, en particulier celles issues de situations de maltraitance, de violence conjugale et d’agressions sexuelles. 
+Au cours de mon cursus universitaire en psychologie, mes travaux de recherche se sont centrés sur les conséquences psychologiques des violences interpersonnelles, en particulier celles issues de situations de maltraitance, de violence conjugale et d’agressions sexuelles.
 
 Mes expériences institutionnelles dans la protection de l’enfance et en milieu hospitalier auprès de personnes souffrant de troubles neurologiques fonctionnels m’ont également permis d’approfondir ma connaissance de l’accompagnement et des besoins des personnes traumatisées.
 

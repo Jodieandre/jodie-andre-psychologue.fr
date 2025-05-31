@@ -17,7 +17,7 @@ export default () => (
                 >
                     Prendre un rendez-vous
                 </Link>
-                <Link href="/a-propos" className="text-sm/6 font-semibold text-white">
+                <Link href="/en-savoir-plus" className="text-sm/6 font-semibold text-white">
                     En savoir plus
                     {' '}
                     <span aria-hidden="true">→</span>
