@@ -6,7 +6,7 @@ import { Dialog, DialogPanel } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import settings from '../settings.json';
 
-export default ({ className = '' }) => {
+export default ({ className = 'text-white' }) => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
     return (
@@ -41,6 +41,7 @@ export default ({ className = '' }) => {
                 </div>
                 <div className="hidden lg:flex lg:justify-end" />
             </nav>
+
             <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
                 <div className="fixed inset-0 z-50" />
                 <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-white/10">

@@ -5,10 +5,14 @@
     "navigation": [
         { "name": "Accueil", "href": "/" },
         { "name": "À propos", "href": "/a-propos" },
-        { "name": "Témoignages", "href": "/temoignages" },
         { "name": "Certifications", "href": "/certifications" },
         { "name": "Tarifs", "href": "/tarifs" },
+        { "name": "Témoignages", "href": "/temoignages" },
         { "name": "FAQ", "href": "/faq" },
         { "name": "Mentions légales", "href": "/mentions-legales" }
+    ],
+    "social": [
+        { "name": "linkedin", "icon": "/linkedin.svg", "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161" },
+        { "name": "email", "icon": "/email.svg", "link": "mailto:andrejodie07@gmail.com" }
     ]
 }
