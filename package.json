@@ -24,6 +24,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "start": "npx serve out"
   }
 }

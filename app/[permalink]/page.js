@@ -3,6 +3,8 @@ import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
 import { notFound } from 'next/navigation';
 import { MDXRemote } from 'next-mdx-remote-client/rsc'; // eslint-disable-line
+import Header from '../../components/header';
+import Footer from '../../components/footer';
 import settings from '../../settings.json';
 
 const Page = async ({ params }) => {
@@ -21,19 +23,23 @@ const Page = async ({ params }) => {
     };
 
     return (
-        <main className="flex flex-col flex-1 justify-center after:fixed after:inset-0 after:bg-black/80 after:-z-10 after:content-['']">
-            <img
-                alt="background"
-                src="/background.jpg"
-                className="absolute inset-0 -z-10 h-full w-full object-cover fixed"
-            />
+        <>
+            <Header />
+            <main className="flex flex-col flex-1 justify-center after:fixed after:inset-0 after:bg-sky-950/80 after:-z-10 after:content-['']">
+                <img
+                    alt="background"
+                    src="/background.jpg"
+                    className="absolute inset-0 -z-10 h-full w-full object-cover fixed"
+                />
 
-            <section className="px-6 pt-46 pb-8 lg:px-8 text-white">
-                <article className="mx-auto max-w-3xl text-base/7 text-gray-700 prose prose-headings:text-white prose-strong:text-white text-white">
-                    <MDXRemote source={markdown} options={options} />
-                </article>
-            </section>
-        </main>
+                <section className="px-6 pt-46 pb-8 lg:px-8 text-white">
+                    <article className="mx-auto max-w-3xl text-base/7 text-gray-700 prose prose-headings:text-white prose-strong:text-white text-white">
+                        <MDXRemote source={markdown} options={options} />
+                    </article>
+                </section>
+            </main>
+            <Footer />
+        </>
     );
 };
 

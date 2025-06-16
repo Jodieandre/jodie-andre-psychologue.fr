@@ -5,6 +5,7 @@ export default ({ className = 'text-white' }) => (
         <div>
             <span>&copy;</span>
             <span className="ml-2">
+                2019-
                 {new Date().getFullYear()}
             </span>
         </div>
