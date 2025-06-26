@@ -1,4 +1,4 @@
-## Tarifs
+# Tarifs
 
 N’ayant pas adhéré au dipositif Mon Parcours Psy, mes consultations ne sont malheureusement pas remboursées par la sécurité sociale. En revanche, certaines mutuelles prévoient le remboursement d’un nombre variable de séances, en général limité. Il vous appartient de vérifier auprès de votre mutuelle les modalités de prise en charge de celles-ci.
 

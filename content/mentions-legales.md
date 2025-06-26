@@ -1,4 +1,4 @@
-## Mentions légales
+# Mentions légales
 
 Le site est édité par :
 

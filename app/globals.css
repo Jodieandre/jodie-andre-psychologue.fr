@@ -1,2 +1,13 @@
 @import 'tailwindcss';
 @plugin "@tailwindcss/typography";
+
+@utility prose {
+    blockquote {
+        p {
+            &:first-of-type::before,
+            &:last-of-type::after {
+                content: none;
+            }
+        }
+    }
+}
