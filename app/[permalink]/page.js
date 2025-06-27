@@ -43,10 +43,14 @@ const Page = async ({ params }) => {
     );
 };
 
-export const generateMetadata = async () => ({
-    title: settings.title,
-    description: settings.description,
-});
+export const generateMetadata = async ({ params }) => {
+    const { permalink } = await params;
+
+    return {
+        title: permalink.charAt(0).toUpperCase() + permalink.slice(1),
+        description: settings.description,
+    };
+};
 
 export const generateStaticParams = async () => {
     const files = fs.readdirSync(`${process.cwd()}/content`);
