@@ -10,11 +10,7 @@
 
 > Scylla Charybde
 > ⭐⭐⭐⭐⭐
-> « En dépit de mes résistances pour la méthode, aujourd'hui entièrement convaincue. Thérapeute qui a donc su faire vivre ses outils, le cadre et l'approche, pour se mettre à niveau des patients. Une très belle fluidité dans les entretiens, et de façon surprenante, une jolie lumière. »
-
-> Emeric Humbert
-> ⭐⭐⭐⭐⭐
-> « Mme André n'est jamais en surplomb, malgré la distanciation nécessaire à l'exercice. Elle sait corriger ses vues, ce qui témoigne d'une exigence thérapeutique rare. Sans effet d'autorité, au plus proche de la recherche du patient, au moment où il se trouve. Une belle simplicité; au fond, le meilleur d'un accompagnement. Je recommande. »
+> « En dépit de mes résistances pour la méthode, aujourd'hui entièrement convaincue. Thérapeute qui a donc su faire vivre ses outils, le cadre et l'approche, pour se mettre à niveau des patients. Une très belle fluidité dans les entretiens, et de façon surprenante, une jolie lumière. Mme André n'est jamais en surplomb, malgré la distanciation nécessaire à l'exercice. Elle sait corriger ses vues, ce qui témoigne d'une exigence thérapeutique rare. Sans effet d'autorité, au plus proche de la recherche du patient, au moment où il se trouve. Une belle simplicité; au fond, le meilleur d'un accompagnement. Je recommande. »
 
 > Isa Line
 > ⭐⭐⭐⭐⭐
