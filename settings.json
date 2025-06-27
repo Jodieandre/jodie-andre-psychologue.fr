@@ -1,18 +1,92 @@
 {
-    "title": "Jodie André",
-    "subtitle": "Psychologue",
-    "description": "Psychologue clinicienne et pyschothérapeute <br /> Thérapies cognitives et comportementales (TCC)",
-    "navigation": [
-        { "name": "Accueil", "href": "/" },
-        { "name": "À propos", "href": "/a-propos" },
-        { "name": "Certifications", "href": "/certifications" },
-        { "name": "Tarifs", "href": "/tarifs" },
-        { "name": "Témoignages", "href": "/temoignages" },
-        { "name": "FAQ", "href": "/faq" },
-        { "name": "Mentions légales", "href": "/mentions-legales" }
+    "title": {
+        "text": "Jodie André",
+        "color": "white"
+    },
+    "subtitle": {
+        "text": "Psychologue",
+        "color": "white"
+    },
+    "description": {
+        "text": "Psychologue clinicienne et pyschothérapeute <br /> Thérapies cognitives et comportementales (TCC)",
+        "color": "gray-400"
+    },
+    "pages": [
+        {
+            "text": "Accueil",
+            "link": "/",
+            "linkColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "À propos",
+            "link": "/a-propos",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "Certifications",
+            "link": "/certifications",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "Tarifs",
+            "link": "/tarifs",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "Témoignages",
+            "link": "/temoignages",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "FAQ",
+            "link": "/faq",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "Mentions légales",
+            "link": "/mentions-legales",
+            "linkColor": "white",
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        },
+        {
+            "text": "En savoir plus",
+            "link": "/en-savoir-plus",
+            "linkColor": "white",
+            "linkVisible": false,
+            "textColor": "white",
+            "backgroundColor": "sky-950",
+            "backgroundOpacity": 80
+        }
     ],
     "social": [
-        { "name": "linkedin", "icon": "/linkedin.svg", "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161" },
-        { "name": "email", "icon": "/email.svg", "link": "mailto:andrejodie07@gmail.com" }
+        {
+            "name": "linkedin",
+            "icon": "/linkedin.svg",
+            "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161"
+        },
+        {
+            "name": "email",
+            "icon": "/email.svg",
+            "link": "mailto:andrejodie07@gmail.com"
+        }
     ]
 }

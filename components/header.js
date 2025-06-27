@@ -17,8 +17,8 @@ export default ({ className = 'text-white' }) => {
                         <div className="flex items-center">
                             <img src="/photo.png" alt="logo" className="rounded-full w-20 bg-sky-500" width="80" height="80" />
                             <div className="ml-4">
-                                <div className="text-lg font-bold leading-none">{settings.title}</div>
-                                <div className="text-sm leading-none">{settings.subtitle}</div>
+                                <div className={`text-lg font-bold leading-none text-${settings.title.color}`}>{settings.title.text}</div>
+                                <div className={`text-sm leading-none text-${settings.subtitle.color}`}>{settings.subtitle.text}</div>
                             </div>
                         </div>
                     </Link>
@@ -33,9 +33,9 @@ export default ({ className = 'text-white' }) => {
                     </button>
                 </div>
                 <div className="hidden lg:flex lg:gap-x-12 justify-end">
-                    {settings.navigation.map((item) => (
-                        <Link key={item.name} href={item.href} className="text-sm/6 font-semibold">
-                            {item.name}
+                    {settings.pages.filter(({ linkVisible = true }) => linkVisible).map(({ text, link, color }) => (
+                        <Link key={text} href={link} className={`text-sm/6 font-semibold text-${color}`}>
+                            {text}
                         </Link>
                     ))}
                 </div>
@@ -60,13 +60,13 @@ export default ({ className = 'text-white' }) => {
                     <div className="mt-6 flow-root">
                         <div className="-my-6 divide-y divide-gray-500/25">
                             <div className="space-y-2 py-6">
-                                {settings.navigation.map((item) => (
+                                {settings.pages.filter(({ linkVisible = true }) => linkVisible).map(({ text, link }) => (
                                     <Link
-                                        key={item.name}
-                                        href={item.href}
+                                        key={text}
+                                        href={link}
                                         className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold hover:bg-white"
                                     >
-                                        {item.name}
+                                        {text}
                                     </Link>
                                 ))}
                             </div>
