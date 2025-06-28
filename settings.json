@@ -16,7 +16,7 @@
             "text": "Accueil",
             "link": "/",
             "linkColor": "amber-900",
-            "backgroundColor": "cyan-200",
+            "backgroundColor": "stone-500",
             "backgroundOpacity": 80
         },
         {
