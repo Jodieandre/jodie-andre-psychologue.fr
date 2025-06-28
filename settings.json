@@ -1,21 +1,21 @@
 {
     "title": {
         "text": "Jodie André",
-        "color": "blue-500"
+        "color": "yellow-300"
     },
     "subtitle": {
         "text": "Psychologue",
-        "color": "blue-500"
+        "color": "yellow-300"
     },
     "description": {
         "text": "Psychologue clinicienne et pyschothérapeute <br /> Thérapies cognitives et comportementales (TCC)",
-        "color": "blue-500"
+        "color": "yellow-200"
     },
     "pages": [
         {
             "text": "Accueil",
             "link": "/",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "backgroundColor": "sky-700",
             "backgroundOpacity": 80
         },
