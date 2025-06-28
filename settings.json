@@ -15,8 +15,9 @@
         {
             "text": "Accueil",
             "link": "/",
-            "linkColor": "orange-600"
-            
+            "linkColor": "orange-600",
+            "backgroundColor": "cyan-200",
+            "backgroundOpacity": 80
         },
         {
             "text": "À propos",
