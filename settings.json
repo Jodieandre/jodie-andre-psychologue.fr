@@ -16,13 +16,13 @@
             "text": "Accueil",
             "link": "/",
             "linkColor": "amber-900",
-            "backgroundColor": "stone-500",
+            "backgroundColor": "sky-700",
             "backgroundOpacity": 80
         },
         {
             "text": "À propos",
             "link": "/a-propos",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -30,7 +30,7 @@
         {
             "text": "Certifications",
             "link": "/certifications",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -38,7 +38,7 @@
         {
             "text": "Tarifs",
             "link": "/tarifs",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -46,7 +46,7 @@
         {
             "text": "Témoignages",
             "link": "/temoignages",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -54,7 +54,7 @@
         {
             "text": "FAQ",
             "link": "/faq",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -62,7 +62,7 @@
         {
             "text": "Mentions légales",
             "link": "/mentions-legales",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
@@ -70,7 +70,7 @@
         {
             "text": "En savoir plus",
             "link": "/en-savoir-plus",
-            "linkColor": "amber-900",
+            "linkColor": "yellow-500",
             "linkVisible": false,
             "textColor": "blue-900",
             "backgroundColor": "stone-100",
