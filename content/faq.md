@@ -2,7 +2,7 @@
 
 ## Combien de temps dure une séance ?
 
-La durée typique d’une séance est de 45 minutes, mais peut s’étendre jusqu’à 60 minutes si nécessaire.
+La durée d’une séance est de 45 minutes à 60 minutes.
 
 ## Quelle est la fréquence des séances ?
 
