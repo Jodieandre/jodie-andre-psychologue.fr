@@ -83,7 +83,7 @@
             "icon": "/linkedin.svg",
             "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161",
             "linkColor": "cyan-500"
-        },
+        }
         {
             "name": "email",
             "icon": "/email.svg",
