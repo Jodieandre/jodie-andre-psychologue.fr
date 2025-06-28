@@ -15,9 +15,8 @@
         {
             "text": "Accueil",
             "link": "/",
-            "linkColor": "white",
-            "backgroundColor": "neutral-50",
-            "backgroundOpacity": 80
+            "linkColor": "white"
+            
         },
         {
             "text": "À propos",
