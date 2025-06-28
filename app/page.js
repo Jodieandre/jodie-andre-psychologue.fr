@@ -18,7 +18,7 @@ export default () => (
 
             <div className="flex flex-1 justify-center text-center items-center mx-auto">
                 <div className="mx-auto max-w-2xl text-center">
-                    <h1 className={`text-balance text-5xl font-semibold tracking-tight text-white sm:text-7xl" text-${settings.title.color}`}>
+                    <h1 className={`text-balance text-5xl font-semibold tracking-tight sm:text-7xl text-${settings.title.color}`}>
                         {settings.title.text}
                     </h1>
                     {/* eslint-disable react/no-danger */}

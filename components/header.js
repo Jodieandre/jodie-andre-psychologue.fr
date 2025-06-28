@@ -33,8 +33,8 @@ export default ({ className = 'text-white' }) => {
                     </button>
                 </div>
                 <div className="hidden lg:flex lg:gap-x-12 justify-end">
-                    {settings.pages.filter(({ linkVisible = true }) => linkVisible).map(({ text, link, color }) => (
-                        <Link key={text} href={link} className={`text-sm/6 font-semibold text-${color}`}>
+                    {settings.pages.filter(({ linkVisible = true }) => linkVisible).map(({ text, link, linkColor }) => (
+                        <Link key={text} href={link} className={`text-sm/6 font-semibold text-${linkColor}`}>
                             {text}
                         </Link>
                     ))}
