@@ -23,7 +23,7 @@
             "text": "À propos",
             "link": "/a-propos",
             "linkColor": "orange-600",
-            "textColor": "amber-900",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
@@ -31,7 +31,7 @@
             "text": "Certifications",
             "link": "/certifications",
             "linkColor": "orange-600",
-            "textColor": "amber-900",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
@@ -47,7 +47,7 @@
             "text": "Témoignages",
             "link": "/temoignages",
             "linkColor": "orange-600",
-            "textColor": "white",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
@@ -55,7 +55,7 @@
             "text": "FAQ",
             "link": "/faq",
             "linkColor": "white",
-            "textColor": "white",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
@@ -63,7 +63,7 @@
             "text": "Mentions légales",
             "link": "/mentions-legales",
             "linkColor": "orange-600",
-            "textColor": "white",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
@@ -72,7 +72,7 @@
             "link": "/en-savoir-plus",
             "linkColor": "orange-600",
             "linkVisible": false,
-            "textColor": "white",
+            "textColor": "blue-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         }
