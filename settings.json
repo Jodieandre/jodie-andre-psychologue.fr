@@ -15,39 +15,39 @@
         {
             "text": "Accueil",
             "link": "/",
-            "linkColor": "white"
+            "linkColor": "orange-600"
             
         },
         {
             "text": "À propos",
             "link": "/a-propos",
-            "linkColor": "white",
-            "textColor": "white",
+            "linkColor": "orange-600",
+            "textColor": "amber-900",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
             "text": "Certifications",
             "link": "/certifications",
-            "linkColor": "white",
-            "textColor": "white",
-            "backgroundColor": "sky-950",
+            "linkColor": "orange-600",
+            "textColor": "amber-900",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
             "text": "Tarifs",
             "link": "/tarifs",
-            "linkColor": "white",
+            "linkColor": "orange-600",
             "textColor": "white",
-            "backgroundColor": "sky-950",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
             "text": "Témoignages",
             "link": "/temoignages",
-            "linkColor": "white",
+            "linkColor": "orange-600",
             "textColor": "white",
-            "backgroundColor": "sky-950",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
@@ -55,24 +55,24 @@
             "link": "/faq",
             "linkColor": "white",
             "textColor": "white",
-            "backgroundColor": "sky-950",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
             "text": "Mentions légales",
             "link": "/mentions-legales",
-            "linkColor": "white",
+            "linkColor": "orange-600",
             "textColor": "white",
-            "backgroundColor": "sky-950",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
         {
             "text": "En savoir plus",
             "link": "/en-savoir-plus",
-            "linkColor": "white",
+            "linkColor": "orange-600",
             "linkVisible": false,
             "textColor": "white",
-            "backgroundColor": "sky-950",
+            "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         }
     ],
