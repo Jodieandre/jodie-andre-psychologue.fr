@@ -8,7 +8,7 @@ Au cours de mon cursus universitaire en psychologie, mes travaux de recherche se
 
 Mes expériences institutionnelles dans la protection de l’enfance et en milieu hospitalier auprès de personnes souffrant de troubles neurologiques fonctionnels m’ont également permis d’approfondir ma connaissance de l’accompagnement et des besoins des personnes traumatisées.
 
-Auparavant professeur d’anglais et titulaire d’un Master en Mondes Anglophones, ma maîtrise de l'anglais me permet de me tenir régulièrement informée des dernières avancées dans le domaine de la psychologie au travers des recherches internationales et de me former auprès d’organismes étrangers. J’ai également eu la chance de traduire en français un ouvrage sur la prise en charge du trouble de stress post-traumatique (TSPT) par l’exposition prolongée (reconnue comme étant l’une des thérapies du trouble de stress post-traumatique les plus efficaces), et de réaliser la traduction vers anglais d’un ouvrage en psychologie sociale.
+Auparavant professeur d’anglais et titulaire d’un Master en Mondes Anglophones, ma maîtrise de l'anglais me permet de me tenir régulièrement informée des dernières avancées dans le domaine de la psychologie au travers des recherches internationales et de me former auprès d’organismes étrangers. 
 
 ## Ma pratique
 
