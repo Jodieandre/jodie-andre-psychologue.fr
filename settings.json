@@ -47,7 +47,7 @@
             "text": "Témoignages",
             "link": "/temoignages",
             "linkColor": "yellow-500",
-            "textColor": "blue-900",
+            "textColor": "violet-800",
             "backgroundColor": "stone-100",
             "backgroundOpacity": 80
         },
