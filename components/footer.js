@@ -10,9 +10,15 @@ export default ({ className = 'text-white' }) => (
             </span>
         </div>
         <nav className="grid grid-flow-col gap-3 items-center">
-            {settings.social.map(({ name, link, icon }) => (
+            {settings.social.map(({ name, link, linkColor, icon }) => (
                 <a href={link} aria-label={name} key={name}>
-                    <img src={icon} alt={name} width={20} height={20} className="h-5 w-5 invert" />
+                    <div
+                        className={`h-5 w-5 bg-${linkColor}`}
+                        style={{
+                            mask: `url(${icon}) no-repeat center / contain`,
+                            WebkitMask: `url(${icon}) no-repeat center / contain`,
+                        }}
+                    />
                 </a>
             ))}
         </nav>
