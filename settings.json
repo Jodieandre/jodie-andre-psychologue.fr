@@ -77,18 +77,21 @@
             "backgroundOpacity": 80
         }
     ],
-    "social": [
-        {
-            "name": "linkedin",
-            "icon": "/linkedin.svg",
-            "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161",
-            "linkColor": "cyan-500"
-        },
-        {
-            "name": "email",
-            "icon": "/email.svg",
-            "link": "mailto:andrejodie07@gmail.com",
-            "linkColor": "cyan-500"
-        }
-    ]
+    "footer": {
+        "textColor": "cyan-500",
+        "social": [
+            {
+                "name": "linkedin",
+                "icon": "/linkedin.svg",
+                "link": "https://fr.linkedin.com/in/jodie-andr%C3%A9-828189161",
+                "linkColor": "cyan-500"
+            },
+            {
+                "name": "email",
+                "icon": "/email.svg",
+                "link": "mailto:andrejodie07@gmail.com",
+                "linkColor": "cyan-500"
+            }
+        ]
+    }
 }
