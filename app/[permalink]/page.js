@@ -37,7 +37,7 @@ const Page = async ({ params }) => {
                 />
 
                 <section className="px-6 pt-46 pb-8 lg:px-8">
-                    <article className={`mx-auto max-w-3xl text-base/7 prose prose-headings:text-${textColor} prose-strong:text-${textColor} prose-blockquote:text-${textColor} prose-a:text-${textColor} prose-code:text-${textColor} text-${textColor}`}>
+                    <article className={`mx-auto max-w-3xl text-base/7 prose prose-headings:text-${textColor} prose-strong:text-${textColor} prose-blockquote:text-${textColor} prose-a:text-${textColor} prose-code:text-${textColor} marker:text-${textColor} text-${textColor}`}>
                         <MDXRemote source={markdown} options={options} />
                     </article>
                 </section>
