@@ -25,16 +25,14 @@ export default () => (
                     <p className={`mt-8 text-pretty text-lg font-medium sm:text-xl/8 text-${settings.description.color}`} dangerouslySetInnerHTML={{ __html: settings.description.text }} />
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         <Link
-                            href="https://doctolib.fr/psychologue/nancy/jodie-andre"
+                            href={settings.mainButton.link}
                             target="_blank"
-                            className="rounded-md bg-sky-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-sky-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-400"
+                            className={`rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-sky-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-400 bg-${settings.mainButton.backgroundColor} text-${settings.mainButton.textColor}`}
                         >
-                            Prendre un rendez-vous
+                            {settings.mainButton.text}
                         </Link>
-                        <Link href="/en-savoir-plus" className="text-sm/6 font-semibold text-white">
-                            En savoir plus
-                            {' '}
-                            <span aria-hidden="true">→</span>
+                        <Link href={settings.secondaryButton.link} className={`text-sm/6 font-semibold text-${settings.secondaryButton.color}`}>
+                            {settings.secondaryButton.text}
                         </Link>
                     </div>
                 </div>

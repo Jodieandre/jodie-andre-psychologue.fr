@@ -11,6 +11,17 @@
         "text": "Psychologue clinicienne et pyschothérapeute <br /> Thérapies cognitives et comportementales (TCC)",
         "color": "emerald-400"
     },
+    "mainButton": {
+        "text": "Prendre un rendez-vous",
+        "link": "https://doctolib.fr/psychologue/nancy/jodie-andre",
+        "textColor": "white",
+        "backgroundColor": "sky-500"
+    },
+    "secondaryButton": {
+        "text": "En savoir plus →",
+        "link": "/en-savoir-plus",
+        "color": "white"
+    },
     "pages": [
         {
             "text": "Accueil",

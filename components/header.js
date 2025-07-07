@@ -15,7 +15,7 @@ export default ({ className = 'text-white' }) => {
                 <div className="flex lg:flex-1">
                     <Link href="/">
                         <div className="flex items-center">
-                            <img src="/photo.png" alt="logo" className="rounded-full w-20 bg-sky-500" width="80" height="80" />
+                            <img src="/profile.png" alt="logo" className="rounded-full w-20" width="80" height="80" />
                             <div className="ml-4">
                                 <div className={`text-lg font-bold leading-none text-${settings.title.color}`}>{settings.title.text}</div>
                                 <div className={`text-sm leading-none text-${settings.subtitle.color}`}>{settings.subtitle.text}</div>
@@ -47,7 +47,7 @@ export default ({ className = 'text-white' }) => {
                 <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-white/10">
                     <div className="flex items-center justify-between">
                         <Link href="#!" className="-m-1.5 p-1.5">
-                            <img src="/photo.png" alt="logo" className="rounded-full w-20 bg-sky-500" />
+                            <img src="/profile.png" alt="logo" className="rounded-full w-20 bg-sky-500" />
                         </Link>
                         <button
                             type="button"
