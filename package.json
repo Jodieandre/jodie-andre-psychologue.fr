@@ -3,24 +3,24 @@
     "serve": "^14.2.4"
   },
   "devDependencies": {
-    "@headlessui/react": "^2.2.3",
+    "@headlessui/react": "^2.2.7",
     "@heroicons/react": "^2.2.0",
-    "@tailwindcss/postcss": "^4.1.6",
+    "@tailwindcss/postcss": "^4.1.12",
     "@tailwindcss/typography": "^0.5.16",
     "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "next": "^15.3.2",
-    "next-mdx-remote-client": "^2.1.2",
-    "postcss": "^8.5.3",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "next": "^15.5.2",
+    "next-mdx-remote-client": "^2.1.3",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.1",
-    "tailwindcss": "^4.1.6"
+    "tailwindcss": "^4.1.12"
   },
   "scripts": {
     "dev": "next dev",
