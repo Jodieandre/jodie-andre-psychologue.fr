@@ -15,7 +15,7 @@ export default ({ className = 'text-white' }) => {
                 <div className="flex lg:flex-1">
                     <Link href="/">
                         <div className="flex items-center">
-                            <img src="/profile.png" alt="logo" className="rounded-full w-20" width="80" height="80" />
+                            <img src="/profile.png" alt="logo" className="rounded-full w-20 h-20 object-cover" width="80" height="80" />
                             <div className="ml-4">
                                 <div className={`text-lg font-bold leading-none text-${settings.title.color}`}>{settings.title.text}</div>
                                 <div className={`text-sm leading-none text-${settings.subtitle.color}`}>{settings.subtitle.text}</div>
