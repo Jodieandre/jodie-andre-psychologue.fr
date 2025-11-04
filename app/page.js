@@ -44,6 +44,6 @@ export default () => (
 );
 
 export const generateMetadata = async () => ({
-    title: settings.title,
-    description: settings.description,
+    title: settings.title.text,
+    description: settings.description.text,
 });

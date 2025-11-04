@@ -52,7 +52,7 @@ export const generateMetadata = async ({ params }) => {
 
     return {
         title: permalink.charAt(0).toUpperCase() + permalink.slice(1),
-        description: settings.description,
+        description: settings.description.text,
     };
 };
 
