@@ -2,13 +2,13 @@
 
 ## Formations universitaires en psychologie
 
-- Licence de psychologie
+- Licence de psychologie (2016)
 
-- Master de psychologie
+- Master de psychologie (2018)
 
 ## Autres formations universitaires
 
-- Master Mondes Anglophones
+- Master Mondes Anglophones (2008)
 
 ## Formations aux Thérapies Cognitives et Comportementales
 
