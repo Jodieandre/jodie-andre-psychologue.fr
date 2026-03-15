@@ -22,6 +22,8 @@
 - Protocole de traitement avancé pour l'émétophobie - _Center for Anxiety and Behavior Therapy_ (USA) (2025)
   
 - Thérapie centrée sur la compassion - _Psychwire_ (2025)
+
+- Débuter la pratique de l'ACT - _Flexibilité Psychologique_ (2026)
    
 ## Formation EMDR
 
