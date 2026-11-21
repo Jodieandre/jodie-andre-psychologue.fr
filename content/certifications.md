@@ -29,6 +29,10 @@
 
 - Formation à l’EMDR – en 2 niveaux à l’_Institut français d’EMDR_
 
+## Autres formations
+
+- Formation au TDAH - _Hyper Supers_ (2026)
+
 ## Supervision et intervision
 
 - Ma pratique est régulièrement supervisée et intervisée, conformément aux bonnes pratiques de la profession.
